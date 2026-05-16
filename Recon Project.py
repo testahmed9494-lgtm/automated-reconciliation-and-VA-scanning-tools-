@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Recon Automation Tool - For authorized security testing only
-Author: Security Professional
+Author: S M Ishtiaque Ahmed
 Purpose: Automated reconnaissance for penetration testing
 """
 
